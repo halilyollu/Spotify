@@ -1,0 +1,45 @@
+body{
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: -72px;
+}
+
+.gradient{
+    background: linear-gradient(#ed6670, #f2ad4e);
+}
+
+.bg-yellow{
+    background-color: #f7c04e !important;
+}
+
+.py-6{
+    padding: 150px 0px;
+}
+
+.pt-6{
+    padding-top: 200px;
+}
+
+.green-color{
+    color: #1db954 !important;
+}
+
+.bg-black{
+    background-color: #000;
+}
+
+.bg-soft-black{
+    background-color: #00000099;
+}
+
+.btn-success{
+    background-color: #1db954 !important;
+    border-radius: 50px; 
+}
+
+.btn-outline-light{
+    border-radius: 50px;
+}
+
+.shadow{
+    box-shadow: 0px 2px 5px #999;
+}
